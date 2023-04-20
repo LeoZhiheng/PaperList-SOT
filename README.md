@@ -23,5 +23,10 @@
 ## 3D Object Tracking
 ### 3D Single Object Tracking  
 
+[3D-SiamRPN: An end-to-end learning method for real-time 3D single object tracking using raw point cloud](https://arxiv.org/abs/2108.05630) [2020 IEEE Sensors]  
+
+[F-Siamese Tracker: A Frustum-based Double Siamese Network for 3D Single Object Tracking](https://arxiv.org/abs/2010.11510) [2020 IROS]    
+
+[Leveraging Shape Completion for 3D Siamese Tracking](https://arxiv.org/abs/1903.01784) [2019 CVPR]   
 
 [Efficient Bird Eye View Proposals for 3D Siamese Tracking](https://arxiv.org/abs/1903.10168) [2019 BMVC]  
