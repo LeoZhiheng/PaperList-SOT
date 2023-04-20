@@ -23,13 +23,13 @@
 ## 3D Object Tracking
 ### 3D Single Object Tracking  
 
-[3D Object Tracking with Transformer](https://arxiv.org/abs/2110.14921) [2021 BMVC]:star2:  
+[3D Object Tracking with Transformer](https://arxiv.org/abs/2110.14921) [2021 BMVC] :star2:  
 
 [P2B: Point-to-box network for 3D object tracking in point clouds](https://arxiv.org/abs/2005.13888) [2020 CVPR]  
 
-[Point Siamese Network for Person Tracking Using 3D Point Clouds](https://www.mdpi.com/1424-8220/20/1/143) [2020 Sensors]:star2:      
+[Point Siamese Network for Person Tracking Using 3D Point Clouds](https://www.mdpi.com/1424-8220/20/1/143) [2020 Sensors] :star2:      
 
-[3D-SiamRPN: An end-to-end learning method for real-time 3D single object tracking using raw point cloud](https://arxiv.org/abs/2108.05630) [2020 IEEE Sensors]:star2:    
+[3D-SiamRPN: An end-to-end learning method for real-time 3D single object tracking using raw point cloud](https://arxiv.org/abs/2108.05630) [2020 IEEE Sensors] :star2:    
 
 [F-Siamese Tracker: A Frustum-based Double Siamese Network for 3D Single Object Tracking](https://arxiv.org/abs/2010.11510) [2020 IROS]    
 
