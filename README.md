@@ -24,9 +24,6 @@
 
 [K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions](https://arxiv.org/abs/2206.08171) [2022 NIPS]   
 
-## 2D Object Tracking
-### 2D Single Object Tracking  
-
 ## 3D Object Tracking
 ### 3D Single Object Tracking  
 
