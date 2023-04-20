@@ -23,6 +23,14 @@
 ## 3D Object Tracking
 ### 3D Single Object Tracking  
 
+[3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds](https://arxiv.org/abs/2111.04426) [2021 NIPS]  
+
+[Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds arXiv:2108.04728v1](https://arxiv.org/abs/2108.04728) [2021 ICCV]   
+
+[PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds](https://arxiv.org/abs/2108.06455) [2021 IROS] :star2::fire:
+
+[Model-free Vehicle Tracking and State Estimation in Point Cloud Sequences](https://arxiv.org/abs/2103.06028) [2021 IROS]  
+
 [3D Object Tracking with Transformer](https://arxiv.org/abs/2110.14921) [2021 BMVC] :star2::fire:  
 
 [P2B: Point-to-box network for 3D object tracking in point clouds](https://arxiv.org/abs/2005.13888) [2020 CVPR]  
