@@ -36,7 +36,7 @@
 
 [3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds](https://arxiv.org/abs/2111.04426) [2021 NIPS]  
 
-[Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds arXiv:2108.04728v1](https://arxiv.org/abs/2108.04728) [2021 ICCV]   
+[Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds](https://arxiv.org/abs/2108.04728) [2021 ICCV]   
 
 [PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds](https://arxiv.org/abs/2108.06455) [2021 IROS] :star2::fire:
 
