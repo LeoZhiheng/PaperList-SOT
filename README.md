@@ -2,7 +2,7 @@
 
 整理近兩年閱讀的文章，施工中~~~~~~~~~~
 
-2023.4.20 更新18篇 3D Object Detection (Multi-Frame Fusion), 3D Single Object Tracking
+2023.4.20 更新20篇 3D Object Detection (Multi-Frame Fusion), 3D Single Object Tracking
 
 
 ## 3D Object Detection
@@ -22,6 +22,10 @@
 
 ## 3D Object Tracking
 ### 3D Single Object Tracking  
+
+[Temporal-aware Siamese Tracker : Integrate Temporal Context for 3D Object Tracking](https://openaccess.thecvf.com/content/ACCV2022/html/Lan_Temporal-aware_Siamese_Tracker_Integrate_Temporal_Context_for_3D_Object_Tracking_ACCV_2022_paper.html) [2022 ACCV]  
+
+[Graph-Based Point Tracker for 3D Object Tracking in Point Clouds](https://ojs.aaai.org/index.php/AAAI/article/view/20101) [2022 AAAI]  
 
 [MLVSNet: Multi-level Voting Siamese Network for 3D Visual Tracking](https://ieeexplore.ieee.org/document/9710975) [2021 ICCV]  
 
