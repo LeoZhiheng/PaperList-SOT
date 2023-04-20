@@ -21,9 +21,8 @@
 [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](https://arxiv.org/abs/2012.12395) [2018 CVPR]
 
 ### Radar
-#### 4D Radar
 
-[K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions](https://arxiv.org/abs/2206.08171) [2022 NIPS]   
+[K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions](https://arxiv.org/abs/2206.08171) [2022 NIPS] [4D Radar]  
 
 ## 3D Object Tracking
 ### 3D Single Object Tracking  
