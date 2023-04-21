@@ -3,7 +3,7 @@
 整理近兩年閱讀的文章，施工中~~~~~~~~~~
 
 2023.4.20 更新19篇 3D Object Detection (Multi-Frame Fusion, Radar), 3D Single Object Tracking  
-2023.4.21 更新11篇 3D Object Detection (Radar), 3D Single Object Tracking, 2D Single Object Tracking   
+2023.4.21 更新15篇 3D Object Detection (Radar), 3D Single Object Tracking, 2D Single Object Tracking   
 
 ## 3D Object Detection
 ### Multi-Frame Fusion
@@ -28,6 +28,12 @@
 
 ## 2D Object Tracking
 ### 2D Single Object Tracking
+
+[Distractor-aware Siamese Networks for Visual Object Tracking](https://arxiv.org/abs/1808.06048) [2018 ECCV]  
+
+[End-to-end Flow Correlation Tracking with Spatial-temporal Attention](https://arxiv.org/abs/1711.01124) [2018 CVPR]  
+
+[GOTURN: Learning to Track at 100 FPS with Deep Regression Networks](https://arxiv.org/abs/1604.01802) [2016 ECCV]  
 
 [Fully-Convolutional Siamese Networks forObjectTracking](https://arxiv.org/abs/1606.09549) [2016 ECCV]  
 
