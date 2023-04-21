@@ -41,6 +41,8 @@
 
 [Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking](https://arxiv.org/abs/2210.00519) [2022 RAL] :star2::fire:  
 
+[3D Single-Object Tracking with Spatial-Temporal Data Association](https://ieeexplore.ieee.org/document/9981905) [2022 IROS]  
+
 [3D Siamese Transformer Network for Single Object Tracking on Point Clouds](https://arxiv.org/abs/2207.11995) [2022 ECCV]  
 
 [Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds](https://arxiv.org/abs/2203.01730) [2022 CVPR]  
