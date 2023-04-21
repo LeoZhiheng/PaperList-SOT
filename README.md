@@ -31,6 +31,8 @@
 
 [A Lightweight and Detector-Free 3D Single Object Tracker on Point Clouds](https://arxiv.org/abs/2203.04232) [2023 TITS]  
 
+[3D Siamese Transformer Network for Single Object Tracking on Point Clouds](https://arxiv.org/abs/2207.11995) [2022 ECCV]  
+
 [Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds](https://arxiv.org/abs/2203.01730) [2022 CVPR]  
 
 [PTTR: Relational 3D Point Cloud Object Tracking with Transformer](https://arxiv.org/abs/2112.02857) [2022 CVPR]  
