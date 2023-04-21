@@ -26,6 +26,11 @@
 
 [RadarNet: Exploiting Radar for Robust Perception of Dynamic Objects](https://arxiv.org/abs/2007.14366) [Radar+LiDAR] [2020 ECCV]  
 
+## 2D Object Tracking
+### 2D Single Object Tracking
+
+[Fully-Convolutional Siamese Networks forObjectTracking](https://arxiv.org/abs/1606.09549) [2016 ECCV]  
+
 ## 3D Object Tracking
 ### 3D Single Object Tracking  
 
