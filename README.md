@@ -5,7 +5,7 @@
 (只更新頂會頂刊)  
 2023.4.20 更新19篇 3D Object Detection (Multi-Frame Fusion, Radar), 3D Single Object Tracking  
 2023.4.21 更新20篇 3D Object Detection (Radar), 3D Single Object Tracking, 2D Single Object Tracking   
-2023.4.22 更新12篇  3D Object Detection (Radar), 2D Single Object Tracking
+2023.4.22 更新23篇  3D Object Detection (Radar), 2D Single Object Tracking
 
 ## 3D Object Detection
 ### Multi-Frame Fusion
@@ -39,7 +39,29 @@
 ## 2D Object Tracking
 ### 2D Single Object Tracking
 
-[High-Performance Long-Term Tracking with Meta-Updater](https://arxiv.org/abs/2004.00305) [2020 CVPR]]     
+[High-Performance Discriminative Tracking with Transformers](https://ieeexplore.ieee.org/document/9710969) [2021 ICCV]  
+
+[Graph Attention Tracking](https://arxiv.org/abs/2011.11204) [2021 CVPR]        
+
+[Learning Target Candidate Association to Keep Track of What Not to Track](https://arxiv.org/abs/2103.16556) [2021 ICCV]   
+
+[SiamRCR: Reciprocal Classification and Regression for Visual Object Tracking](https://arxiv.org/abs/2105.11237V) [2021 IJCAI]    
+
+[Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking](https://arxiv.org/abs/2103.11681) [2021 CVPR]    
+
+[Learn to Match: Automatic Matching Network Design for Visual Tracking](https://arxiv.org/abs/2108.00803) [2021 ICCV]    
+
+[STMTrack: Template-free Visual Tracking with Space-time Memory Networks](https://arxiv.org/abs/2104.00324) [2021 CVPR]
+
+[Saliency-Associated Object Tracking](https://arxiv.org/abs/2108.03637) [2021 ICCV]    
+
+[MART: Motion-Aware Recurrent Neural Network for Robust Visual Tracking](https://ieeexplore.ieee.org/document/9423078) [2021 WACV]     
+
+[Transformer Tracking](https://arxiv.org/abs/2103.15436) [2021 CVPR]     
+
+[Learning Spatio-Temporal Transformer for Visual Tracking](https://arxiv.org/abs/2103.17154) [2021 ICCV]  
+
+[High-Performance Long-Term Tracking with Meta-Updater](https://arxiv.org/abs/2004.00305) [2020 CVPR]     
 
 [Siam R-CNN: Visual Tracking by Re-Detection](https://arxiv.org/abs/1911.12836) [2020 CVPR]    
 
