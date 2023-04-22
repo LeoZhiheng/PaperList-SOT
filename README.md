@@ -4,7 +4,7 @@
 
 2023.4.20 更新19篇 3D Object Detection (Multi-Frame Fusion, Radar), 3D Single Object Tracking  
 2023.4.21 更新20篇 3D Object Detection (Radar), 3D Single Object Tracking, 2D Single Object Tracking   
-2023.4.22 更新8篇  3D Object Detection (Radar), 2D Single Object Tracking
+2023.4.22 更新12篇  3D Object Detection (Radar), 2D Single Object Tracking
 
 ## 3D Object Detection
 ### Multi-Frame Fusion
@@ -37,6 +37,14 @@
 
 ## 2D Object Tracking
 ### 2D Single Object Tracking
+
+[High-Performance Long-Term Tracking with Meta-Updater](https://arxiv.org/abs/2004.00305) [2020 CVPR]]     
+
+[Siam R-CNN: Visual Tracking by Re-Detection](https://arxiv.org/abs/1911.12836) [2020 CVPR]    
+
+[Optical Flow in Deep Visual Tracking](https://ojs.aaai.org/index.php/AAAI/article/view/6890) [2020 AAAI]     
+
+[Siamese Box Adaptive Network for Visual Tracking](https://arxiv.org/abs/2003.06761) [2020 CVPR]    
 
 [Tracking by Instance Detection: A Meta-Learning Approach](https://arxiv.org/abs/2004.00830) [2020 CVPR]        
 
