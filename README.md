@@ -4,7 +4,7 @@
 
 2023.4.20 更新19篇 3D Object Detection (Multi-Frame Fusion, Radar), 3D Single Object Tracking  
 2023.4.21 更新20篇 3D Object Detection (Radar), 3D Single Object Tracking, 2D Single Object Tracking   
-2023.4.22 更新4篇  3D Object Detection (Radar), 2D Single Object Tracking
+2023.4.22 更新8篇  3D Object Detection (Radar), 2D Single Object Tracking
 
 ## 3D Object Detection
 ### Multi-Frame Fusion
@@ -37,6 +37,14 @@
 
 ## 2D Object Tracking
 ### 2D Single Object Tracking
+
+[Tracking by Instance Detection: A Meta-Learning Approach](https://arxiv.org/abs/2004.00830) [2020 CVPR]        
+
+[State-Aware Tracker for Real-Time Video Object Segmentation](https://arxiv.org/abs/2003.00482) [2020 CVPR]         
+
+[Deformable Siamese Attention Networks for Visual Object Tracking](https://arxiv.org/abs/2004.06711) [2020 CVPR]    
+
+[Tracking Objects as Points](https://arxiv.org/abs/2004.01177) [2020 ECCV]      
 
 [Model-free Tracking with Deep Appearance and Motion Features Integration](https://arxiv.org/abs/1812.06418) [2019 WACV]   
 
