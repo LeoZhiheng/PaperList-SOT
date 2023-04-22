@@ -25,7 +25,7 @@
 
 ### Radar
 
-[Modality-Agnostic Learning for Radar-Lidar Fusion in Vehicle Detection](https://ieeexplore.ieee.org/document/9879704) [Radar+LiDAR] [CVPR 2022]     
+[Modality-Agnostic Learning for Radar-Lidar Fusion in Vehicle Detection](https://ieeexplore.ieee.org/document/9879704) [Radar+LiDAR] [CVPR 2022]       
 [RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection Systems](https://arxiv.org/abs/2211.06108) [Radar+LiDAR] [2022 TNNLS]  
 
 [K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions](https://arxiv.org/abs/2206.08171) [4D Radar] [2022 NIPS]  
