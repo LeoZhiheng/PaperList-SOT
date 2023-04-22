@@ -5,7 +5,7 @@
 (只更新頂會頂刊)  
 2023.4.20 更新19篇 3D Object Detection (Multi-Frame Fusion, Radar), 3D Single Object Tracking  
 2023.4.21 更新20篇 3D Object Detection (Radar), 3D Single Object Tracking, 2D Single Object Tracking   
-2023.4.22 更新23篇  3D Object Detection (Radar), 2D Single Object Tracking
+2023.4.22 更新23篇  3D Object Detection (Radar), 2D Single Object Tracking  
 2023.4.22 更新...篇  3D Object Detection (Radar), 2D Single Object Tracking  
 
 ## 3D Object Detection
