@@ -34,7 +34,7 @@
 
 [RPFA-Net: a 4D RaDAR Pillar Feature Attention Network for 3D Object Detection](https://ieeexplore.ieee.org/document/9564754) [4D Radar] [2021 ITSC]  
 
-[Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusion in Unseen Adverse Weather](https://arxiv.org/abs/1902.08913) [Radar+LiDAR+Camera] [2020 CVPR]
+[Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusion in Unseen Adverse Weather](https://arxiv.org/abs/1902.08913) [Radar+LiDAR+Camera] [2020 CVPR]  
 
 [RadarNet: Exploiting Radar for Robust Perception of Dynamic Objects](https://arxiv.org/abs/2007.14366) [Radar+LiDAR] [2020 ECCV]  
 
