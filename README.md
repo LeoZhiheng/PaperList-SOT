@@ -6,7 +6,7 @@
 2023.4.20 更新19篇 3D Object Detection (Multi-Frame Fusion, Radar), 3D Single Object Tracking  
 2023.4.21 更新20篇 3D Object Detection (Radar), 3D Single Object Tracking, 2D Single Object Tracking   
 2023.4.22 更新24篇  3D Object Detection (Radar), 2D Single Object Tracking  
-2023.4.23 更新8篇  3D Object Detection (Radar), 2D Single Object Tracking  
+2023.4.23 更新11篇  3D Object Detection (Radar), 2D Single Object Tracking  
 
 ## 3D Object Detection
 ### Multi-Frame Fusion
@@ -113,6 +113,12 @@
 [GOTURN: Learning to Track at 100 FPS with Deep Regression Networks](https://arxiv.org/abs/1604.01802) [2016 ECCV]  
 
 [Fully-Convolutional Siamese Networks for Object Tracking](https://arxiv.org/abs/1606.09549) [2016 ECCV]  
+
+### 2D Multi Object Tracking  
+
+[Deep SORT: Simple online and realtime tracking with a deep association metric](https://arxiv.org/abs/1703.07402) [2018 ICIP]     
+
+[SORT: Simple online and realtime tracking](https://arxiv.org/abs/1602.00763) [2016 ICIP]    
 
 ## 3D Object Tracking
 ### 3D Single Object Tracking  
