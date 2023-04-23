@@ -25,6 +25,26 @@
 
 ### LiDAR Range Image  
 
+[Fully Convolutional One-Stage 3D Object Detection on LiDAR Range Images](https://arxiv.org/abs/2205.13764) [2022 NIPS]            
+
+[VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention](https://arxiv.org/abs/2203.09704) [2022 CVPR]    
+
+[LaserFlow: Efficient and Probabilistic Object Detection and Motion Forecasting](https://arxiv.org/abs/2003.05982) [2021 RAL]    
+
+[To the Point : Efficient 3D Object Detection in the Range Image with Graph Convolution Kernels](https://arxiv.org/abs/2106.13381) [2021 CVPR]    
+
+[RangeIoUDet: Range Image based Real-Time 3D Object Detector Optimized by Intersection over Union](https://ieeexplore.ieee.org/document/9578898) [2021 CVPR]    
+
+[RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2103.10039) [2021 ICCV]           
+
+[RSN: Range Sparse Net for Efficient, Accurate LiDAR 3D Object Detection](https://arxiv.org/abs/2106.13365) [2021 CVPR]    
+
+[RV-FuseNet: Range View Based Fusion of Time-Series LiDAR Data for Joint 3D Object Detection and Motion Forecasting](https://arxiv.org/abs/2005.10863) [2021 IROS]     
+
+[Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection](https://arxiv.org/abs/2005.09927) [2020 CoRL]      
+
+[LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701) [2019 CVPR]      
+
 ### Radar
 
 [Modality-Agnostic Learning for Radar-Lidar Fusion in Vehicle Detection](https://ieeexplore.ieee.org/document/9879704) [Radar+LiDAR] [CVPR 2022]  
