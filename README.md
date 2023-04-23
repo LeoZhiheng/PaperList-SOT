@@ -116,6 +116,8 @@
 
 ### 2D Multi Object Tracking  
 
+[Multiple Object Tracking with Correlation Learning](https://arxiv.org/abs/2104.03541) [2021 CVPR]       
+
 [Deep SORT: Simple online and realtime tracking with a deep association metric](https://arxiv.org/abs/1703.07402) [2018 ICIP]     
 
 [SORT: Simple online and realtime tracking](https://arxiv.org/abs/1602.00763) [2016 ICIP]    
