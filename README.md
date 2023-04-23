@@ -112,7 +112,7 @@
 
 [GOTURN: Learning to Track at 100 FPS with Deep Regression Networks](https://arxiv.org/abs/1604.01802) [2016 ECCV]  
 
-[Fully-Convolutional Siamese Networks forObjectTracking](https://arxiv.org/abs/1606.09549) [2016 ECCV]  
+[Fully-Convolutional Siamese Networks for Object Tracking](https://arxiv.org/abs/1606.09549) [2016 ECCV]  
 
 ## 3D Object Tracking
 ### 3D Single Object Tracking  
