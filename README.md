@@ -6,7 +6,7 @@
 2023.4.20 更新19篇 3D Object Detection (Multi-Frame Fusion, Radar), 3D Single Object Tracking  
 2023.4.21 更新20篇 3D Object Detection (Radar), 3D Single Object Tracking, 2D Single Object Tracking   
 2023.4.22 更新24篇  3D Object Detection (Radar), 2D Single Object Tracking  
-2023.4.23 更新...篇  3D Object Detection (Radar), 2D Single Object Tracking  
+2023.4.23 更新8篇  3D Object Detection (Radar), 2D Single Object Tracking  
 
 ## 3D Object Detection
 ### Multi-Frame Fusion
@@ -41,6 +41,22 @@
 
 ## 2D Object Tracking
 ### 2D Single Object Tracking
+
+[DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks](https://arxiv.org/abs/2304.00571) [2023 CVPR]   
+
+[MixFormer: End-to-End Tracking with Iterative Mixed Attention](https://arxiv.org/abs/2203.11082) [2022 CVPR]    
+
+[Towards Grand Unification of Object Tracking](https://arxiv.org/abs/2207.07078) [2022 ECCV]    
+
+[Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework](https://arxiv.org/abs/2203.11991) [2022 ECCV]       
+
+[Towards Sequence-Level Training for Visual Tracking](https://arxiv.org/abs/2208.05810) [2022 ECCV]    
+
+[FEAR: Fast, Efficient, Accurate and Robust Visual Tracker arXiv:2112.07957v1](https://arxiv.org/abs/2112.07957) [2022 ECCV]     
+
+[AiATrack: Attention in Attention for Transformer Visual Tracking](https://arxiv.org/abs/2207.09603) [2022 ECCV]    
+
+[SparseTT: Visual Tracking with Sparse Transformers](https://arxiv.org/abs/2205.03776) [2022 IJCAI]    
 
 [High-Performance Discriminative Tracking with Transformers](https://ieeexplore.ieee.org/document/9710969) [2021 ICCV]  
 
