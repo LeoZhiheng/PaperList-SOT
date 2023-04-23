@@ -7,6 +7,7 @@
 2023.4.21 更新20篇 3D Object Detection (Radar), 3D Single Object Tracking, 2D Single Object Tracking   
 2023.4.22 更新24篇  3D Object Detection (Radar), 2D Single Object Tracking  
 2023.4.23 更新21篇  3D Object Detection (LiDAR Range Image), 2D Single Object Tracking, 2D Multi Object Tracking    
+2023.4.24 更新1篇  3D Object Detection (Weakly Supervised)    
 
 ## 3D Object Detection
 ### Multi-Frame Fusion
@@ -22,6 +23,10 @@
 [3D-MAN: 3D Multi-frame Attention Network for Object Detection](https://arxiv.org/abs/2012.12395) [2021 CVPR]  
 
 [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](https://arxiv.org/abs/2012.12395) [2018 CVPR]
+
+### Weakly Supervised
+
+[Weakly Supervised 3D Object Detection from Point Clouds](https://arxiv.org/abs/2007.13970) [2022 ACM MM]     
 
 ### LiDAR Range Image  
 
