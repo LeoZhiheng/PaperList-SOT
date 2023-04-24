@@ -13,8 +13,8 @@
 
 - [3D Object Detection](##3DObjectDetection)   
   - [Multi-Frame Fusion](###Multi-FrameFusion)   
-  - [Weakly Supervised](###weakly-supervised)
-  - [LiDAR Range Image](###LiDARRangeImage)      
+  - [Weakly Supervised](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#weakly-supervised)
+  - [LiDAR Range Image](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#liDAR-range-image)      
 
 ## 3D Object Detection
 ### Multi-Frame Fusion
