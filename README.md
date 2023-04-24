@@ -31,7 +31,7 @@
 
 [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](https://arxiv.org/abs/2012.12395) [2018 CVPR]
 
-### WeaklySupervised
+### Weakly Supervised
 
 [Weakly Supervised 3D Object Detection from Point Clouds](https://arxiv.org/abs/2007.13970) [2022 ACM MM]     
 
