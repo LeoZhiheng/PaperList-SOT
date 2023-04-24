@@ -93,7 +93,7 @@
 
 [A Fusion Approach for Multi-Frame Optical Flow Estimation](https://arxiv.org/abs/1810.10066) [2019 WACV]    
 
-[Volumetric Correspondence Networks for Optical Flow] (http://papers.neurips.cc/paper/8367-volumetric-correspondence-networks-for-optical-flow) [2019 NIPS]     
+[Volumetric Correspondence Networks for Optical Flow](http://papers.neurips.cc/paper/8367-volumetric-correspondence-networks-for-optical-flow) [2019 NIPS]     
 
 [PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume](https://arxiv.org/abs/1709.02371) [2018 CVPR]         
 
