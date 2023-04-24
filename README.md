@@ -11,12 +11,12 @@
 
 ## Paper List
 
-- [3D Object Detection](##3D Object Detection)   
+- [3D Object Detection](##3D)   
   - [Multi-Frame Fusion](###Multi-Frame Fusion)   
   - [Weakly Supervised](###Weakly Supervised)   
   - [LiDAR Range Image](###LiDAR Range Image)      
 
-## 3D Object Detection
+## 3D
 ### Multi-Frame Fusion
 
 [MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection](https://arxiv.org/abs/2212.00442) [2022 AAAI]
