@@ -14,7 +14,10 @@
 - [3D Object Detection](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#3d-object-detection)   
   - [Multi-Frame Fusion](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#multi-frame-fusion)   
   - [Weakly Supervised](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#weakly-supervised)
-  - [LiDAR Range Image](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#liDAR-range-image)      
+  - [LiDAR Range Image](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#liDAR-range-image)  
+  - [Mono](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#mono)  
+  - [Radar](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#radar)      
+- [Optical Flow](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#optical-flow) 
 
 ## 3D Object Detection
 ### Multi Frame Fusion
