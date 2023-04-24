@@ -12,9 +12,9 @@
 ## Paper List
 
 - [3D Object Detection](##3DObjectDetection)   
-  - [Multi-Frame Fusion](###Multi-Frame Fusion)   
-  - [Weakly Supervised](###Weakly Supervised)   
-  - [LiDAR Range Image](###LiDAR Range Image)      
+  - [Multi-Frame Fusion](###Multi-FrameFusion)   
+  - [Weakly Supervised](###WeaklySupervised)   
+  - [LiDAR Range Image](###LiDARRangeImage)      
 
 ## 3D Object Detection
 ### Multi-Frame Fusion
