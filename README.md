@@ -7,7 +7,7 @@
 2023.4.21 更新20篇 3D Object Detection (Radar), 3D Single Object Tracking, 2D Single Object Tracking   
 2023.4.22 更新24篇  3D Object Detection (Radar), 2D Single Object Tracking  
 2023.4.23 更新21篇  3D Object Detection (LiDAR Range Image), 2D Single Object Tracking, 2D Multi Object Tracking    
-2023.4.24 更新5篇  3D Object Detection (Weakly Supervised, Mono)    
+2023.4.24 更新10篇  3D Object Detection (Weakly Supervised, Mono)    
 
 ## 3D Object Detection
 ### Multi-Frame Fusion
@@ -51,6 +51,16 @@
 [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701) [2019 CVPR]      
 
 ### Mono
+
+[MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection](https://arxiv.org/abs/2203.13310) [2022 CVPR]      
+
+[MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer](https://arxiv.org/abs/2203.10981) [2022 CVPR]     
+
+[Densely Constrained Depth Estimator for Monocular 3D Object Detection](https://arxiv.org/abs/2207.10047) [2022 ECCV]     
+
+[Categorical Depth Distribution Network for Monocular 3D Object Detection](https://arxiv.org/abs/2103.01100) [2021 CVPR]    
+
+[Delving into Localization Errors for Monocular 3D Object Detection](https://arxiv.org/abs/2103.16237) [2021 CVPR]    
 
 [Orthographic Feature Transform for Monocular 3D Object Detection](https://arxiv.org/abs/1811.08188) [2020 BMVC]     
 
