@@ -18,8 +18,8 @@
   - [Mono](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#mono)  
   - [Radar](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#radar)      
 - [2D Object Tracking](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#2D-object-tracking) 
-  - [2D Single Object Tracking](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#optical-flow) 
-  - [2D Multi Object Tracking](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#optical-flow) 
+  - [2D Single Object Tracking](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#2D-single-object-tracking) 
+  - [2D Multi Object Tracking](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#2D-multi-object-tracking) 
 
 ## 3D Object Detection
 ### Multi Frame Fusion
