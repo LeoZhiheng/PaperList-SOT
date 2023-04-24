@@ -11,13 +11,13 @@
 
 ## Paper List
 
-- [3D Object Detection](##3DObjectDetection)   
-  - [Multi-Frame Fusion](###Multi-FrameFusion)   
+- [3D Object Detection](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#3d-object-detection)   
+  - [Multi-Frame Fusion](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#multi-frame-fusion)   
   - [Weakly Supervised](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#weakly-supervised)
   - [LiDAR Range Image](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#liDAR-range-image)      
 
 ## 3D Object Detection
-### Multi-Frame Fusion
+### Multi Frame Fusion
 
 [MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection](https://arxiv.org/abs/2212.00442) [2022 AAAI]
 
