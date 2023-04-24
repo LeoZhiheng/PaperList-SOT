@@ -87,6 +87,20 @@
 
 [RadarNet: Exploiting Radar for Robust Perception of Dynamic Objects](https://arxiv.org/abs/2007.14366) [Radar+LiDAR] [2020 ECCV]  
 
+## Optical Flow
+
+[RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039) [2020 ECCV]       
+
+[A Fusion Approach for Multi-Frame Optical Flow Estimation](https://arxiv.org/abs/1810.10066) [2019 WACV]    
+
+[Volumetric Correspondence Networks for Optical Flow] (http://papers.neurips.cc/paper/8367-volumetric-correspondence-networks-for-optical-flow) [2019 NIPS]     
+
+[PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume](https://arxiv.org/abs/1709.02371) [2018 CVPR]         
+
+[LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation](https://arxiv.org/abs/1805.07036) [2018 CVPR]    
+
+[FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](https://arxiv.org/abs/1612.01925) [2017 CVPR]    
+
 ## 2D Object Tracking
 ### 2D Single Object Tracking
 
