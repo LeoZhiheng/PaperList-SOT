@@ -7,7 +7,7 @@
 2023.4.21 更新20篇 3D Object Detection (Radar), 3D Single Object Tracking, 2D Single Object Tracking   
 2023.4.22 更新24篇  3D Object Detection (Radar), 2D Single Object Tracking  
 2023.4.23 更新21篇  3D Object Detection (LiDAR Range Image), 2D Single Object Tracking, 2D Multi Object Tracking    
-2023.4.24 更新5篇  3D Object Detection (Weakly Supervised)    
+2023.4.24 更新5篇  3D Object Detection (Weakly Supervised, Mono)    
 
 ## 3D Object Detection
 ### Multi-Frame Fusion
@@ -56,7 +56,7 @@
 
 [MonoGRNet: A Geometric Reasoning Network for Monocular 3D Object Localization](https://arxiv.org/abs/1811.10247) [2019 AAAI]       
 
-[Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1812.07179) [2019 CVPR]  
+[Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1812.07179) [2019 CVPR]      
 [Multi-Level Fusion based 3D Object Detection from Monocular Images](https://ieeexplore.ieee.org/document/8578347) [2018 CVPR]  
 
 
