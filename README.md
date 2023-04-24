@@ -7,7 +7,7 @@
 2023.4.21 更新20篇 3D Object Detection (Radar), 3D Single Object Tracking, 2D Single Object Tracking   
 2023.4.22 更新24篇  3D Object Detection (Radar), 2D Single Object Tracking  
 2023.4.23 更新21篇  3D Object Detection (LiDAR Range Image), 2D Single Object Tracking, 2D Multi Object Tracking    
-2023.4.24 更新1篇  3D Object Detection (Weakly Supervised)    
+2023.4.24 更新5篇  3D Object Detection (Weakly Supervised)    
 
 ## 3D Object Detection
 ### Multi-Frame Fusion
@@ -50,9 +50,19 @@
 
 [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701) [2019 CVPR]      
 
+### Mono
+
+[Orthographic Feature Transform for Monocular 3D Object Detection](https://arxiv.org/abs/1811.08188) [2020 BMVC]     
+
+[MonoGRNet: A Geometric Reasoning Network for Monocular 3D Object Localization](https://arxiv.org/abs/1811.10247) [2019 AAAI]       
+
+[Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1812.07179) [2019 CVPR]  
+[Multi-Level Fusion based 3D Object Detection from Monocular Images](https://ieeexplore.ieee.org/document/8578347) [2018 CVPR]  
+
+
 ### Radar
 
-[Modality-Agnostic Learning for Radar-Lidar Fusion in Vehicle Detection](https://ieeexplore.ieee.org/document/9879704) [Radar+LiDAR] [CVPR 2022]  
+[Modality-Agnostic Learning for Radar-Lidar Fusion in Vehicle Detection](https://ieeexplore.ieee.org/document/9879704) [Radar+LiDAR] [2022 CVPR]  
 
 [RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection Systems](https://arxiv.org/abs/2211.06108) [Radar+LiDAR] [2022 TNNLS]  
 
