@@ -8,7 +8,7 @@
 2023.4.22 更新24篇  3D Object Detection (Radar), 2D Single Object Tracking  
 2023.4.23 更新21篇  3D Object Detection (LiDAR Range Image), 2D Single / Multi Object Tracking   
 2023.4.24 更新16篇  3D Object Detection (Weakly Supervised, Mono)...**突破100篇**:star2::fire:😄     
-2023.4.25 更新5篇  3D Object Detection (Optical Flow)
+2023.4.25 更新12篇  3D Object Detection (Optical Flow)
 
 ## Paper List
 
@@ -104,6 +104,20 @@
 [RadarNet: Exploiting Radar for Robust Perception of Dynamic Objects](https://arxiv.org/abs/2007.14366) [Radar+LiDAR] [2020 ECCV]  
 
 ## Optical Flow
+
+[Learning Optical Flow with Kernel Patch Attention(https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_Learning_Optical_Flow_With_Kernel_Patch_Attention_CVPR_2022_paper.pdf) [2022 CVPR]    
+
+[SKFlow: Learning Optical Flow with Super Kernels](https://arxiv.org/abs/2205.14623) [2022 NIPS]         
+
+[FlowFormer: A Transformer Architecture for Optical Flow](https://arxiv.org/abs/2203.16194) [2022 ECCV]       
+
+[Global Matching with Overlapping Attention for Optical Flow Estimation](https://arxiv.org/abs/2203.11335) [2022 CVPR]    
+
+[Deep Equilibrium Optical Flow Estimation](https://arxiv.org/abs/2204.08442) [2022 CVPR]    
+
+[Imposing Consistency for Optical Flow Estimation](https://arxiv.org/abs/2204.07262) [2022 CVPR]     
+
+[Learning Optical Flow with Adaptive Graph Reasoning](https://arxiv.org/abs/2202.03857) [2022 AAAI]     
 
 [GMFlow: Learning Optical Flow via Global Matching](https://arxiv.org/abs/2111.13680) [2022 CVPR]    
 
