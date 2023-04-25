@@ -8,7 +8,7 @@
 2023.4.22 更新24篇 3D Object Detection (Radar), 2D Single Object Tracking  
 2023.4.23 更新21篇 3D Object Detection (LiDAR Range Image), 2D Single / Multi Object Tracking   
 2023.4.24 更新16篇 3D Object Detection (Weakly Supervised, Mono)...**突破100篇**:star2::fire:😄     
-2023.4.25 更新12篇 Optical Flow
+2023.4.25 更新20篇 3D Object Detection (Stereo), Optical Flow
 
 ## Paper List
 
@@ -86,6 +86,13 @@
 
 [Multi-Level Fusion based 3D Object Detection from Monocular Images](https://ieeexplore.ieee.org/document/8578347) [2018 CVPR]  
 
+### Stereo   
+
+[Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/1906.06310) [2019 ICLR]   
+
+[Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving](https://arxiv.org/abs/1807.02062) [2018 ECCV]         
+
+[3D Object Proposals Using Stereo Imagery for Accurate Object Class Detection](https://arxiv.org/abs/1608.07711) [2018 TPAMI]    
 
 ### Radar
 
@@ -140,6 +147,19 @@
 [LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation](https://arxiv.org/abs/1805.07036) [2018 CVPR]    
 
 [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](https://arxiv.org/abs/1612.01925) [2017 CVPR]    
+
+
+## Stereo Matching
+
+[Hierarchical Discrete Distribution Decomposition for Match Density Estimation](https://arxiv.org/abs/1812.06264) [2019 CVPR]   
+
+[Learning for Disparity Estimation through Feature Constancy](https://arxiv.org/abs/1712.01039) [2018 CVPR]         
+
+[Pyramid Stereo Matching Network](https://arxiv.org/abs/1803.08669) [2018 CVPR]    
+
+[End-to-End Learning of Geometry and Context for Deep Stereo Regression](https://arxiv.org/abs/1703.04309) [2017 ICCV]    
+
+[DeepStereo: Learning to Predict New Views from the World’s Imagery](https://arxiv.org/abs/1506.06825) [2016 CVPR]    
 
 ## 2D Object Tracking
 ### 2D Single Object Tracking
