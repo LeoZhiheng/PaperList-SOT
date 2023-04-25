@@ -105,7 +105,7 @@
 
 ## Optical Flow
 
-[Learning Optical Flow with Kernel Patch Attention(https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_Learning_Optical_Flow_With_Kernel_Patch_Attention_CVPR_2022_paper.pdf) [2022 CVPR]    
+[Learning Optical Flow with Kernel Patch Attention](https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_Learning_Optical_Flow_With_Kernel_Patch_Attention_CVPR_2022_paper.pdf) [2022 CVPR]    
 
 [SKFlow: Learning Optical Flow with Super Kernels](https://arxiv.org/abs/2205.14623) [2022 NIPS]         
 
