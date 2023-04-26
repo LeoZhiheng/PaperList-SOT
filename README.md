@@ -1,4 +1,4 @@
-# PaperReading
+# PaperList
 
 整理近兩年閱讀的600+文章(三維目標檢測/跟蹤，二維目標檢測/跟蹤，深度/光流估計等)，施工中~~~~~~~~~~
 
@@ -10,7 +10,7 @@
 2023.4.24 更新16篇 3D Object Detection (Weakly Supervised, Mono)...**突破100篇**:star2::fire:😄     
 2023.4.25 更新20篇 3D Object Detection (Stereo), Optical Flow
 
-## Paper List
+## Catalog
 
 - [3D Object Detection](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#3d-object-detection)   
   - [Multi-Frame Fusion](https://github.com/LeoZhiheng/PaperReading/blob/main/README.md#multi-frame-fusion)   
