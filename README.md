@@ -10,7 +10,7 @@
 2023.4.23 更新21篇 3D Object Detection (LiDAR Range Image), 2D Single / Multi Object Tracking   
 2023.4.24 更新16篇 3D Object Detection (Weakly Supervised, Mono)...**突破100篇**:star2::fire:😄       
 2023.4.25 更新20篇 3D Object Detection (Stereo), Optical Flow    
-2023.4.27 更新14篇 3D Object Detection (Stereo), Stereo Matching, 3D Segmentation
+2023.4.27 更新20篇 3D Object Detection (Stereo), Stereo Matching, 3D Segmentation
 
 ## Catalog
 
