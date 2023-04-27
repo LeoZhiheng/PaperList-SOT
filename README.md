@@ -73,6 +73,14 @@
 
 ## Stereo Matching
 
+[HITNet: Hierarchical Iterative Tile Refinement Network for Real-time Stereo Matching](https://arxiv.org/abs/2007.12140) [2021 CVPR]       
+
+[RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching](https://arxiv.org/abs/2109.07547) [2021 3DV]    
+
+[Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2011.02910) [2021 ICCV]  
+
+[AANet: Adaptive Aggregation Network for Efficient Stereo Matching](https://arxiv.org/abs/2004.09548) [2020 CVPR]   
+
 [Attention-Aware Feature Aggregation for Real-time Stereo Matching on Edge Devices](https://openaccess.thecvf.com/content/ACCV2020/html/Chang_Attention-Aware_Feature_Aggregation_for_Real-time_Stereo_Matching_on_Edge_Devices_ACCV_2020_paper.html) [2020 ACCV]   
 
 [GA-Net: Guided Aggregation Net for End-to-end Stereo Matching](https://arxiv.org/abs/1904.06587) [2019 CVPR]
@@ -234,6 +242,10 @@
 [Multi-Level Fusion based 3D Object Detection from Monocular Images](https://ieeexplore.ieee.org/document/8578347) [2018 CVPR]  
 
 ### Stereo   
+
+[YOLOStereo3D: A Step Back to 2D for Efficient Stereo 3D Detection](https://repository.hkust.edu.hk/ir/Record/1783.1-116327) [2021 RAL]    
+
+[LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector](https://arxiv.org/abs/2108.08258) [2021 ICCV]    
 
 [Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation](https://arxiv.org/abs/2004.03572) [2020 CVPR]    
 
