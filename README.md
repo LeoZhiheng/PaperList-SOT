@@ -1,7 +1,7 @@
 # PaperList
 
 整理近兩年閱讀的600+文章  
-**第一階段: 三維目標檢測/跟蹤，二維目標檢測/跟蹤，深度/光流估計**等，施工中~~~~~~~~~~
+**第一階段: 三維目標檢測/跟蹤/分割，二維目標檢測/跟蹤/分割，深度/光流估計**等，施工中~~~~~~~~~~
 
 (只更新頂會頂刊)  
 2023.4.20 更新19篇 3D Object Detection (Multi-Frame Fusion, Radar), 3D Single Object Tracking  
@@ -10,7 +10,7 @@
 2023.4.23 更新21篇 3D Object Detection (LiDAR Range Image), 2D Single / Multi Object Tracking   
 2023.4.24 更新16篇 3D Object Detection (Weakly Supervised, Mono)...**突破100篇**:star2::fire:😄       
 2023.4.25 更新20篇 3D Object Detection (Stereo), Optical Flow    
-2023.4.27 更新11篇 3D Object Detection (Stereo), Stereo Matching
+2023.4.27 更新12篇 3D Object Detection (Stereo), Stereo Matching, 3D Segmentation
 
 ## Catalog
 
@@ -28,6 +28,7 @@
   - [Radar](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#radar)   
 - [3D Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-object-tracking) 
   - [3D Single Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-single-object-tracking) 
+- [3D Segmentation](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-segmentation)      
 
 ## Optical Flow
 
@@ -316,3 +317,11 @@
 [Leveraging Shape Completion for 3D Siamese Tracking](https://arxiv.org/abs/1903.01784) [2019 CVPR]   
 
 [Efficient Bird Eye View Proposals for 3D Siamese Tracking](https://arxiv.org/abs/1903.10168) [2019 BMVC]  
+
+
+## 3D Segmentation
+
+[SemanticKITTI: A Dataset for Semantic Scene Understanding of LiDAR Sequences](https://arxiv.org/abs/1904.01416) [2019 ICCV]      
+
+
+
