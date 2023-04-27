@@ -323,5 +323,10 @@
 ### Classic
 [SemanticKITTI: A Dataset for Semantic Scene Understanding of LiDAR Sequences](https://arxiv.org/abs/1904.01416) [2019 ICCV]      
 
+### Moving Object Segmentation
+
+[Automatic Labeling to Generate Training Data for Online LiDAR-based Moving Object Segmentation](https://arxiv.org/abs/2201.04501) [2022 RAL]     
+
+[Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data](https://arxiv.org/abs/2105.08971) [2021 RAL]     
 
 
