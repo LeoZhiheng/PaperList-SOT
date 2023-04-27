@@ -9,7 +9,7 @@
 2023.4.23 更新21篇 3D Object Detection (LiDAR Range Image), 2D Single / Multi Object Tracking   
 2023.4.24 更新16篇 3D Object Detection (Weakly Supervised, Mono)...**突破100篇**:star2::fire:😄       
 2023.4.25 更新20篇 3D Object Detection (Stereo), Optical Flow    
-2023.4.27 更新...篇   
+2023.4.27 更新5篇 3D Object Detection (Stereo), Stereo Matching
 
 ## Catalog
 
@@ -91,6 +91,12 @@
 
 ### Stereo   
 
+[Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1812.07179) [2019 CVPR]   
+ 
+[Stereo R-CNN based 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1902.09738) [2019 CVPR]     
+
+[Triangulation Learning Network: from Monocular to Stereo 3D Object Detection](https://arxiv.org/abs/1906.01193) [2019 CVPR]    
+ 
 [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/1906.06310) [2019 ICLR]   
 
 [Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving](https://arxiv.org/abs/1807.02062) [2018 ECCV]         
@@ -153,6 +159,10 @@
 
 
 ## Stereo Matching
+
+[GA-Net: Guided Aggregation Net for End-to-end Stereo Matching](https://arxiv.org/abs/1904.06587) [2019 CVPR]
+
+[Group-wise Correlation Stereo Network](https://arxiv.org/abs/1903.04025) [2019 CVPR]    
 
 [Hierarchical Discrete Distribution Decomposition for Match Density Estimation](https://arxiv.org/abs/1812.06264) [2019 CVPR]   
 
