@@ -9,7 +9,7 @@
 2023.4.23 更新21篇 3D Object Detection (LiDAR Range Image), 2D Single / Multi Object Tracking   
 2023.4.24 更新16篇 3D Object Detection (Weakly Supervised, Mono)...**突破100篇**:star2::fire:😄       
 2023.4.25 更新20篇 3D Object Detection (Stereo), Optical Flow    
-2023.4.27 更新5篇 3D Object Detection (Stereo), Stereo Matching
+2023.4.27 更新11篇 3D Object Detection (Stereo), Stereo Matching
 
 ## Catalog
 
@@ -91,6 +91,16 @@
 
 ### Stereo   
 
+[Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation](https://arxiv.org/abs/2004.03572) [2020 CVPR]    
+
+[Confidence Guided Stereo 3D Object Detection with Split Depth Estimation](https://arxiv.org/abs/2003.05505) [2020 IROS]   
+
+[DSGN: Deep Stereo Geometry Network for 3D Object Detection](https://arxiv.org/abs/2001.03398) [2020 CVPR]    
+
+[ZoomNet: Part-Aware Adaptive Zooming Neural Network for 3D Object Detection](https://arxiv.org/abs/2003.00529) [2020 AAAI]    
+
+[Object-Centric Stereo Matching for 3D Object Detection](https://arxiv.org/abs/1909.07566) [2020 ICAR]     
+
 [Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1812.07179) [2019 CVPR]   
  
 [Stereo R-CNN based 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1902.09738) [2019 CVPR]     
@@ -159,6 +169,8 @@
 
 
 ## Stereo Matching
+
+[Attention-Aware Feature Aggregation for Real-time Stereo Matching on Edge Devices](https://openaccess.thecvf.com/content/ACCV2020/html/Chang_Attention-Aware_Feature_Aggregation_for_Real-time_Stereo_Matching_on_Edge_Devices_ACCV_2020_paper.html) [2020 ACCV]   
 
 [GA-Net: Guided Aggregation Net for End-to-end Stereo Matching](https://arxiv.org/abs/1904.06587) [2019 CVPR]
 
