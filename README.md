@@ -10,7 +10,7 @@
 2023.4.23 更新21篇 3D Object Detection (LiDAR Range Image), 2D Single / Multi Object Tracking   
 2023.4.24 更新16篇 3D Object Detection (Weakly Supervised, Mono)...**突破100篇**:star2::fire:😄       
 2023.4.25 更新20篇 3D Object Detection (Stereo), Optical Flow    
-2023.4.27 更新12篇 3D Object Detection (Stereo), Stereo Matching, 3D Segmentation
+2023.4.27 更新14篇 3D Object Detection (Stereo), Stereo Matching, 3D Segmentation
 
 ## Catalog
 
@@ -28,7 +28,9 @@
   - [Radar](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#radar)   
 - [3D Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-object-tracking) 
   - [3D Single Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-single-object-tracking) 
-- [3D Segmentation](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-segmentation)      
+- [3D Segmentation](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-segmentation)     
+  - [Classic](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#classic)     
+  - [Moving Object Segmentation](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#moving-object-segmentation)     
 
 ## Optical Flow
 
