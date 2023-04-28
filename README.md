@@ -11,6 +11,7 @@
 2023.4.24 更新16篇 3D Object Detection (Weakly Supervised, Mono)...**突破100篇**:star2::fire:😄       
 2023.4.25 更新20篇 3D Object Detection (Stereo), Optical Flow    
 2023.4.27 更新20篇 3D Object Detection (Stereo), Stereo Matching, 3D Segmentation
+2023.4.28 更新5篇 3D Object Detection (Stereo), Stereo Matching
 
 ## Catalog
 
@@ -72,6 +73,14 @@
 
 
 ## Stereo Matching
+
+[MobileStereoNet: Towards Lightweight Deep Networks for Stereo Matching](https://arxiv.org/abs/2203.11483) [2022 WACV]   
+
+[Practical Stereo Matching via Cascaded Recurrent Network with Adaptive Correlation](https://arxiv.org/abs/2203.11483) [2022 CVPR]    
+
+[Domain-invariant Stereo Matching Networks](https://arxiv.org/abs/1911.13287) [2022 ECVA]    
+
+[Attention Concatenation Volume for Accurate and Efficient Stereo Matching](https://arxiv.org/abs/2203.02146) [2022 CVPR]   
 
 [HITNet: Hierarchical Iterative Tile Refinement Network for Real-time Stereo Matching](https://arxiv.org/abs/2007.12140) [2021 CVPR]       
 
@@ -242,6 +251,8 @@
 [Multi-Level Fusion based 3D Object Detection from Monocular Images](https://ieeexplore.ieee.org/document/8578347) [2018 CVPR]  
 
 ### Stereo   
+
+[SIDE: Center-based Stereo 3D Detector with Structure-aware Instance Depth Estimation](https://arxiv.org/abs/2108.09663) [2022 WACV]     
 
 [YOLOStereo3D: A Step Back to 2D for Efficient Stereo 3D Detection](https://repository.hkust.edu.hk/ir/Record/1783.1-116327) [2021 RAL]    
 
