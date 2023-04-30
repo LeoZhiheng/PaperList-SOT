@@ -12,7 +12,7 @@
 2023.4.25 更新20篇 3D Object Detection (Stereo), Optical Flow    
 2023.4.27 更新20篇 3D Object Detection (Stereo), Stereo Matching, 3D Segmentation    
 2023.4.28 更新5篇 3D Object Detection (Stereo), Stereo Matching     
-2023.4.30 更新10篇 3D Object Detection (Multi-view Images)
+2023.4.30 更新10篇 2D Object Detection, 3D Object Detection (Multi-view Images)
 
 ## Catalog
 
@@ -107,6 +107,9 @@
 [End-to-End Learning of Geometry and Context for Deep Stereo Regression](https://arxiv.org/abs/1703.04309) [2017 ICCV]    
 
 [DeepStereo: Learning to Predict New Views from the World’s Imagery](https://arxiv.org/abs/1506.06825) [2016 CVPR]    
+
+## 2D Object Detection
+### Normal
 
 ## 2D Object Tracking
 ### 2D Single Object Tracking
