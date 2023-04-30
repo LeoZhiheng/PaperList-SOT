@@ -12,12 +12,13 @@
 2023.4.25 更新20篇 3D Object Detection (Stereo), Optical Flow    
 2023.4.27 更新20篇 3D Object Detection (Stereo), Stereo Matching, 3D Segmentation    
 2023.4.28 更新5篇 3D Object Detection (Stereo), Stereo Matching     
-2023.4.30 更新10篇 2D Object Detection, 3D Object Detection (Multi-view Images)
+2023.4.30 更新20篇 2D Object Detection, 3D Object Detection (Multi-view Images)
 
 ## Catalog
 
 - [Optical Flow](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#optical-flow)   
 - [Stereo Matching](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#stereo-matching)   
+- [2D Object Detection](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-object-detection) 
 - [2D Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-object-tracking) 
   - [2D Single Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-single-object-tracking) 
   - [2D Multi Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-multi-object-tracking) 
@@ -109,7 +110,27 @@
 [DeepStereo: Learning to Predict New Views from the World’s Imagery](https://arxiv.org/abs/1506.06825) [2016 CVPR]    
 
 ## 2D Object Detection
-### Normal
+### Classic  
+
+[VarifocalNet: An IoU-aware Dense Object Detector](https://arxiv.org/abs/2008.13367) [2021 CVPR]    
+
+[Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection](https://arxiv.org/abs/2006.04388) [2020 CVPR]    
+
+[Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression](https://arxiv.org/abs/1911.08287) [2020 AAAI]   
+
+[Fast Point R-CNN](https://arxiv.org/abs/1908.02990) [2019 ICCV]     
+
+[FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355) [2019 CVPR]       
+
+[Objects as Points](https://arxiv.org/abs/1904.07850) [2019 CVPR]      
+
+[ou Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) [2018 CVPR]     
+
+[YOLO9000: Better, Faster, Stronger Joseph](https://arxiv.org/abs/1612.08242) [2017 CVPR]      
+
+[Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) [2017 ICCV]    
+
+[UnitBox: An Advanced Object Detection Network](https://arxiv.org/abs/1608.01471) [2016 ACM MM]     
 
 ## 2D Object Tracking
 ### 2D Single Object Tracking
