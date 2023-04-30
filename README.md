@@ -11,7 +11,8 @@
 2023.4.24 更新16篇 3D Object Detection (Weakly Supervised, Mono)...**突破100篇**:star2::fire:😄       
 2023.4.25 更新20篇 3D Object Detection (Stereo), Optical Flow    
 2023.4.27 更新20篇 3D Object Detection (Stereo), Stereo Matching, 3D Segmentation    
-2023.4.28 更新5篇 3D Object Detection (Stereo), Stereo Matching
+2023.4.28 更新5篇 3D Object Detection (Stereo), Stereo Matching     
+2023.4.30 更新10篇 3D Object Detection (Multi-view Images)
 
 ## Catalog
 
@@ -21,11 +22,12 @@
   - [2D Single Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-single-object-tracking) 
   - [2D Multi Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-multi-object-tracking) 
 - [3D Object Detection](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3d-object-detection)   
-  - [Multi-Frame Fusion](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-frame-fusion)   
-  - [Weakly Supervised](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#weakly-supervised)
-  - [LiDAR Range Image](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#liDAR-range-image)  
-  - [Stereo](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#stereo)  
-  - [Mono](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#mono)  
+  - [Multi-Frame Fusion](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-frame-fusion)     
+  - [Weakly Supervised](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#weakly-supervised)    
+  - [LiDAR Range Image](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#liDAR-range-image)     
+  - [Mono](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#mono)     
+  - [Stereo](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#stereo)     
+  - [Multi-view Images](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-view-images)    
   - [Radar](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#radar)   
 - [3D Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-object-tracking) 
   - [3D Single Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-single-object-tracking) 
@@ -279,6 +281,28 @@
 [Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving](https://arxiv.org/abs/1807.02062) [2018 ECCV]         
 
 [3D Object Proposals Using Stereo Imagery for Accurate Object Class Detection](https://arxiv.org/abs/1608.07711) [2018 TPAMI]    
+
+### Multi-view Images
+
+[M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation](https://arxiv.org/abs/2204.05088) [2022 Arvix]   
+
+[BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird’s-Eye View Representation](https://arxiv.org/abs/2205.13542) [2022 Arvix]     
+
+[FUTR3D: A Unified Sensor Fusion Framework for 3D Detection](https://arxiv.org/abs/2203.10642) [2022 Arvix]   
+
+[PETR: Position Embedding Transformation for Multi-View 3D Object Detection](https://arxiv.org/abs/2203.05625) [2022 ECCV]    
+
+[BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers](https://arxiv.org/abs/2203.17270) [2022 ECCV]     
+
+[BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework](https://arxiv.org/abs/2205.13790) [2022 NIPS]   
+
+[BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092) [2022 AAAI]    
+
+[BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View](https://arxiv.org/abs/2112.11790) [2021 Arvix]    
+
+[DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries](https://arxiv.org/abs/2110.06922) [2021 CORL]    
+
+[Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D](https://arxiv.org/abs/2008.05711) [2020 ECCV]         
 
 ### Radar
 
