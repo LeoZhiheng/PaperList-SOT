@@ -222,6 +222,16 @@
 
 ### Classic       
 
+[PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784) [2019 CVPR]   
+
+[SECOND: Sparsely Embedded Convolutional Detection](https://www.mdpi.com/1424-8220/18/10/3337) [2018 Sensors]     
+
+[VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396) [2018 CVPR]      
+
+[PIXOR: Real-time 3D Object Detection from Point Clouds](https://arxiv.org/abs/1902.06326) [2018 CVPR]     
+
+[Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/abs/1711.08488) [2018 CVPR]    
+
 ### Multi Frame Fusion
 
 [MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection](https://arxiv.org/abs/2212.00442) [2022 AAAI]
