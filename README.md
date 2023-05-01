@@ -222,6 +222,14 @@
 
 ### Classic       
 
+[Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://arxiv.org/abs/2003.01251) [2020 CVPR]    
+
+[TANet: Robust 3D Object Detection from Point Clouds with Triple Attention](https://arxiv.org/abs/1912.05163) [2020 AAAI]     
+
+[PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud](https://arxiv.org/abs/1812.04244) [2019 CVPR]   
+
+[STD: Sparse-to-Dense 3D Object Detector for Point Cloud Zetong](https://arxiv.org/abs/1907.10471) [2019 CVPR]     
+
 [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784) [2019 CVPR]   
 
 [SECOND: Sparsely Embedded Convolutional Detection](https://www.mdpi.com/1424-8220/18/10/3337) [2018 Sensors]     
@@ -231,6 +239,8 @@
 [PIXOR: Real-time 3D Object Detection from Point Clouds](https://arxiv.org/abs/1902.06326) [2018 CVPR]     
 
 [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/abs/1711.08488) [2018 CVPR]    
+
+[BirdNet: a 3D Object Detection Framework from LiDAR Information](https://arxiv.org/abs/1805.01195) [2018 ITSC]    
 
 ### Multi Frame Fusion
 
