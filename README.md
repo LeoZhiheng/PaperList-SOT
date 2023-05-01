@@ -13,7 +13,7 @@
 2023.4.27 更新20篇 3D Object Detection (Stereo), Stereo Matching, 3D Segmentation    
 2023.4.28 更新5篇 3D Object Detection (Stereo), Stereo Matching     
 2023.4.30 更新20篇 2D Object Detection, 3D Object Detection (Multi-view Images)     
-2023.5.1  更新10篇 3D Object Detection (Classic)
+2023.5.1  更新15篇 3D Object Detection (Classic)
 
 ## Catalog
 
@@ -221,6 +221,16 @@
 ## 3D Object Detection    
 
 ### Classic       
+
+[AFDet: Anchor Free One Stage 3D Object Detection](https://arxiv.org/abs/2006.12671) [2020 CVPR]    
+
+[CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2012.03015) [2020 AAAI]    
+
+[PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection](https://arxiv.org/abs/1912.13192) [2020 ICCV]     
+
+[3DSSD: Point-based 3D Single Stage Object Detector](https://arxiv.org/abs/2002.10187) [2020 CVPR]   
+
+[MLCVNet: Multi-Level Context VoteNet for 3D Object Detection](https://arxiv.org/abs/2004.05679) [2020 CVPR]    
 
 [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://arxiv.org/abs/2003.01251) [2020 CVPR]    
 
