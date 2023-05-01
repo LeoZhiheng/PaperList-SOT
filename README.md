@@ -13,7 +13,7 @@
 2023.4.27 更新20篇 3D Object Detection (Stereo), Stereo Matching, 3D Segmentation    
 2023.4.28 更新5篇 3D Object Detection (Stereo), Stereo Matching     
 2023.4.30 更新20篇 2D Object Detection, 3D Object Detection (Multi-view Images)     
-2023.5.1  更新15篇 3D Object Detection (Classic)
+2023.5.1  更新20篇 3D Object Detection (Classic)
 
 ## Catalog
 
@@ -221,6 +221,16 @@
 ## 3D Object Detection    
 
 ### Classic       
+
+[VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking](https://arxiv.org/abs/2303.11301) [2023 CVPR]    
+
+[Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds](https://arxiv.org/abs/2203.11139) [2022 CVPR]
+
+[Rethinking IoU-based Optimization for Single-stage 3D Object Detection](https://arxiv.org/abs/2207.09332) [2022 ECCV]      
+
+[Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion arXiv:2203.09780v1](https://arxiv.org/abs/2203.09780) [2022 CVPR]
+
+[AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds](https://arxiv.org/abs/2112.09205) [2022 AAAI]    
 
 [AFDet: Anchor Free One Stage 3D Object Detection](https://arxiv.org/abs/2006.12671) [2020 CVPR]    
 
