@@ -414,7 +414,7 @@
 
 [Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking](https://arxiv.org/abs/2209.00522) [2022 RAL]   
 
-[Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking](https://arxiv.org/abs/2210.00519) [2022 RAL] :star2::fire:  
+[Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking](https://arxiv.org/abs/2210.00519) [2022 RAL] :star2::fire:(Ours)    
 
 [3D Single-Object Tracking with Spatial-Temporal Data Association](https://ieeexplore.ieee.org/document/9981905) [2022 IROS]  
 
@@ -434,7 +434,7 @@
 
 [Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds](https://arxiv.org/abs/2108.04728) [2021 ICCV]   
 
-[PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds](https://arxiv.org/abs/2108.06455) [2021 IROS] :star2::fire:
+[PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds](https://arxiv.org/abs/2108.06455) [2021 IROS] :star2::fire:(Ours)     
 
 [Model-free Vehicle Tracking and State Estimation in Point Cloud Sequences](https://arxiv.org/abs/2103.06028) [2021 IROS]  
 
