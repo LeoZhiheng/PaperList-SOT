@@ -14,7 +14,7 @@
 2023.4.28 更新5篇 3D Object Detection (Stereo), Stereo Matching     
 2023.4.30 更新20篇 2D Object Detection, 3D Object Detection (Multi-view Images)     
 2023.5.1  更新20篇 3D Object Detection (Classic)
-2023.5.2  更新5篇 3D Object Detection (Classic)...**突破200篇**:star2::fire:😄   
+2023.5.2  更新15篇 3D Object Detection (Classic)...**突破200篇**:star2::fire:😄   
 
 ## Catalog
 
@@ -242,6 +242,26 @@
 [Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion arXiv:2203.09780v1](https://arxiv.org/abs/2203.09780) [2022 CVPR]
 
 [AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds](https://arxiv.org/abs/2112.09205) [2022 AAAI]    
+
+[BEV-Net: A Bird’s Eye View Object Detection Network for LiDAR Point Cloud](https://ieeexplore.ieee.org/document/9636810) [2021 IROS]      
+
+[LiDAR R-CNN: An Efficient and Universal 3D Object Detector](https://arxiv.org/abs/2103.15297) [2021 CVPR]      
+
+[PVGNet: A Bottom-Up One-Stage 3D Object Detector with Integrated Multi-Level Features](https://ieeexplore.ieee.org/document/9578803) [2021 CVPR]     
+
+[Improving 3D Object Detection with Channel-wise Transformer](https://arxiv.org/abs/2108.10723) [2021 ICCV]    
+
+[Center-based 3D Object Detection and Tracking](https://arxiv.org/abs/2006.11275) [2021 CVPR]    
+
+[Group-Free 3D Object Detection via Transformers](https://arxiv.org/abs/2104.00678) [2021 ICCV]    
+
+[Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/abs/2103.05073) [2021 CVPR]      
+
+[Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection](https://arxiv.org/abs/2012.15712) [2021 AAAI]    
+
+[SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2104.09804) [2021 CVPR]     
+
+[HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection](https://arxiv.org/abs/2104.00902) [2021 CVPR]    
 
 [AFDet: Anchor Free One Stage 3D Object Detection](https://arxiv.org/abs/2006.12671) [2020 CVPR]    
 
