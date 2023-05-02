@@ -438,7 +438,7 @@
 
 [Model-free Vehicle Tracking and State Estimation in Point Cloud Sequences](https://arxiv.org/abs/2103.06028) [2021 IROS]  
 
-[3D Object Tracking with Transformer](https://arxiv.org/abs/2110.14921) [2021 BMVC] :star2::fire:  
+[3D Object Tracking with Transformer](https://arxiv.org/abs/2110.14921) [2021 BMVC] :star2::fire:**(Ours)**  
 
 [P2B: Point-to-box network for 3D object tracking in point clouds](https://arxiv.org/abs/2005.13888) [2020 CVPR]    
 
