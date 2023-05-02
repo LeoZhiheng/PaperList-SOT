@@ -18,12 +18,12 @@
 
 ## Catalog
 
-- [Optical Flow](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#optical-flow)  **第一階段完成**  
-- [Stereo Matching](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#stereo-matching)  **第一階段完成**  
+- [Optical Flow](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#optical-flow)  (**第一階段完成**)  
+- [Stereo Matching](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#stereo-matching)  (**第一階段完成**)  
 - [2D Object Detection](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-object-detection) 
   - [Classic](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#classic) 
 - [2D Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-object-tracking) 
-  - [2D Single Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-single-object-tracking)  **第一階段完成**
+  - [2D Single Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-single-object-tracking)  (**第一階段完成**)
   - [2D Multi Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-multi-object-tracking) 
 - [3D Object Detection](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3d-object-detection) 
   - [Classic](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#classic-1)
