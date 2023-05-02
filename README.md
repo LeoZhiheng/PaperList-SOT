@@ -35,7 +35,7 @@
   - [Multi-view Images](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-view-images)    
   - [Radar](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#radar)   
 - [3D Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-object-tracking) 
-  - [3D Single Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-single-object-tracking)  **第一階段完成**
+  - [3D Single Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-single-object-tracking)  (**第一階段完成**)
 - [3D Segmentation](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-segmentation)     
   - [Classic](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#classic-2)     
   - [Moving Object Segmentation](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#moving-object-segmentation)     
