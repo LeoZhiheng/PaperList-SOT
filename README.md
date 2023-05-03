@@ -15,6 +15,7 @@
 2023.4.30 更新20篇 2D Object Detection, 3D Object Detection (Multi-view Images)     
 2023.5.1  更新20篇 3D Object Detection (Classic)    
 2023.5.2  更新15篇 3D Object Detection (Classic)...**突破200篇**:star2::fire:😄   
+2023.5.3  更新10篇 3D Object Detection (Multi-modal)...
 
 ## Catalog
 
