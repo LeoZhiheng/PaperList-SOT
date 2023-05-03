@@ -29,6 +29,7 @@
   - [2D Multi Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-multi-object-tracking) 
 - [3D Object Detection](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3d-object-detection) 
   - [Classic](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#classic-1)
+  - [Multi Modal Fusion](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-modal-fusion)
   - [Multi-Frame Fusion](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-frame-fusion)     
   - [Weakly Supervised](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#weakly-supervised)    
   - [LiDAR Range Image](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#liDAR-range-image)     
