@@ -294,6 +294,28 @@
 
 [BirdNet: a 3D Object Detection Framework from LiDAR Information](https://arxiv.org/abs/1805.01195) [2018 ITSC]    
 
+### Multi Modal Fusion
+
+[3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection](https://arxiv.org/abs/2004.12636) [2020 ECCV]  
+
+[PI-RCNN: An efficient multi-sensor 3D object detector with point-based attentive cont-conv fusion module](https://arxiv.org/abs/1911.06084) [2020 AAAI]     
+
+[CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection](https://arxiv.org/abs/2009.00784) [2020 IROS]    
+
+[ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes](https://arxiv.org/abs/2001.10692) [2020 CVPR]     
+
+[PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150) [2020 CVPR]   
+
+[MMF: Multi-task multi-sensor fusion for 3D object detection](https://arxiv.org/abs/2012.12397) [2019 CVPR]   
+
+[MVX-Net: Multimodal VoxelNet for 3D Object Detection](https://arxiv.org/abs/1904.01649) [2019 IROS]    
+
+[Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection](https://arxiv.org/abs/1903.01864) [2019 IROS]   
+
+[Deep Continuous Fusion for Multi-Sensor 3D Object Detection](https://arxiv.org/abs/2012.10992) [2018 ECCV]    
+
+[Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/abs/1611.07759) [2017 CVPR]     
+
 ### Multi Frame Fusion
 
 [MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection](https://arxiv.org/abs/2212.00442) [2022 AAAI]
