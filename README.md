@@ -304,7 +304,7 @@
 
 [ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes](https://arxiv.org/abs/2001.10692) [2020 CVPR]     
 
-[PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150) [2020 CVPR] :star2::star2::star2:  
+[PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150) [2020 CVPR] :star2:😄:star2:  
 
 [MMF: Multi-task multi-sensor fusion for 3D object detection](https://arxiv.org/abs/2012.12397) [2019 CVPR]   
 
