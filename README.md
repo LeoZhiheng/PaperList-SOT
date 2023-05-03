@@ -138,7 +138,7 @@
 [UnitBox: An Advanced Object Detection Network](https://arxiv.org/abs/1608.01471) [2016 ACM MM]     
 
 ## 2D Object Tracking
-### 2D Single Object Tracking
+### 2D Single Object Tracking (RGB Camera)
 
 [DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks](https://arxiv.org/abs/2304.00571) [2023 CVPR]   
 
@@ -211,6 +211,8 @@
 [GOTURN: Learning to Track at 100 FPS with Deep Regression Networks](https://arxiv.org/abs/1604.01802) [2016 ECCV]  
 
 [Fully-Convolutional Siamese Networks for Object Tracking](https://arxiv.org/abs/1606.09549) [2016 ECCV]  
+
+### 2D Single Object Tracking (Event Camera)
 
 ### 2D Multi Object Tracking  
 
