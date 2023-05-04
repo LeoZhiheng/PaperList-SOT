@@ -229,7 +229,7 @@
 
 ### Classic       
 
-[VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking](https://arxiv.org/abs/2303.11301) [2023 CVPR] :star2:😄:star2:    
+[VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking](https://arxiv.org/abs/2303.11301) [2023 CVPR]          
 
 [Point Density-Aware Voxels for LiDAR 3D Object Detection](https://arxiv.org/abs/2203.05662) [2022 CVPR]    
 
@@ -257,7 +257,7 @@
 
 [Improving 3D Object Detection with Channel-wise Transformer](https://arxiv.org/abs/2108.10723) [2021 ICCV]    
 
-[Center-based 3D Object Detection and Tracking](https://arxiv.org/abs/2006.11275) [2021 CVPR] :star2:😄:star2:   
+[Center-based 3D Object Detection and Tracking](https://arxiv.org/abs/2006.11275) [2021 CVPR]      
 
 [Group-Free 3D Object Detection via Transformers](https://arxiv.org/abs/2104.00678) [2021 ICCV]    
 
@@ -283,7 +283,7 @@
 
 [TANet: Robust 3D Object Detection from Point Clouds with Triple Attention](https://arxiv.org/abs/1912.05163) [2020 AAAI]     
 
-[PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud](https://arxiv.org/abs/1812.04244) [2019 CVPR] :star2:😄:star2:   
+[PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud](https://arxiv.org/abs/1812.04244) [2019 CVPR]        
 
 [STD: Sparse-to-Dense 3D Object Detector for Point Cloud Zetong](https://arxiv.org/abs/1907.10471) [2019 CVPR]     
 
@@ -295,7 +295,7 @@
 
 [PIXOR: Real-time 3D Object Detection from Point Clouds](https://arxiv.org/abs/1902.06326) [2018 CVPR]     
 
-[Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/abs/1711.08488) [2018 CVPR] :star2:😄:star2:    
+[Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/abs/1711.08488) [2018 CVPR]       
 
 [BirdNet: a 3D Object Detection Framework from LiDAR Information](https://arxiv.org/abs/1805.01195) [2018 ITSC]    
 
