@@ -34,8 +34,8 @@
   - [Multi-Frame Fusion](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-frame-fusion)     
   - [Weakly Supervised](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#weakly-supervised)    
   - [LiDAR Range Image](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#liDAR-range-image)     
-  - [Mono](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#mono)     
-  - [Stereo](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#stereo)     
+  - [Mono Camera](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#mono-camera)     
+  - [Stereo Camera](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#stereo-camera)     
   - [Multi-view Images](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-view-images)    
   - [Radar](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#radar)   
 - [3D Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3D-object-tracking) 
@@ -381,7 +381,7 @@
 
 [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701) [2019 CVPR]      
 
-### Mono
+### Mono Camera      
 
 [MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection](https://arxiv.org/abs/2203.13310) [2022 CVPR]      
 
@@ -401,7 +401,7 @@
 
 [Multi-Level Fusion based 3D Object Detection from Monocular Images](https://ieeexplore.ieee.org/document/8578347) [2018 CVPR]  
 
-### Stereo   
+### Stereo Camera      
 
 [SIDE: Center-based Stereo 3D Detector with Structure-aware Instance Depth Estimation](https://arxiv.org/abs/2108.09663) [2022 WACV]     
 
