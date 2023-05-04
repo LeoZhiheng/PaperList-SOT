@@ -132,7 +132,7 @@
 
 [Fast Point R-CNN](https://arxiv.org/abs/1908.02990) [2019 ICCV]     
 
-[FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355) [2019 CVPR] :star2:😄:star2:      
+[FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355) [2019 CVPR]       
 
 [Objects as Points](https://arxiv.org/abs/1904.07850) [2019 CVPR]      
 
