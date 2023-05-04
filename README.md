@@ -16,6 +16,7 @@
 2023.5.1  更新20篇 3D Object Detection (Classic)    
 2023.5.2  更新15篇 3D Object Detection (Classic)...**突破200篇**:star2::fire:😄   
 2023.5.3  更新10篇 3D Object Detection (Multi-modal)
+2023.5.4  更新10篇 3D Object Detection (Multi-modal)
 
 ## Catalog
 
@@ -29,7 +30,7 @@
   - [2D Multi Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-multi-object-tracking) 
 - [3D Object Detection](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3d-object-detection) 
   - [Classic](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#classic-1)
-  - [Multi Modal Fusion](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-modal-fusion)
+  - [Multi Modal Fusion (LiDAR-Camera)](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-modal-fusion-lidar-camera)
   - [Multi-Frame Fusion](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-frame-fusion)     
   - [Weakly Supervised](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#weakly-supervised)    
   - [LiDAR Range Image](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#liDAR-range-image)     
@@ -298,7 +299,27 @@
 
 [BirdNet: a 3D Object Detection Framework from LiDAR Information](https://arxiv.org/abs/1805.01195) [2018 ITSC]    
 
-### Multi Modal Fusion
+### Multi Modal Fusion (LiDAR-Camera)
+
+[DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection](https://arxiv.org/abs/2203.08195) [2022 CVPR]   
+
+[DeepInteraction: 3D Object Detection via Modality Interaction](https://arxiv.org/abs/2208.11112) [NIPS 2022]
+
+[AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection](https://arxiv.org/abs/2201.06493) [2022 IJCAI]
+
+[CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2011.04841) [2021 WACV]    
+
+[PointAugmenting: Cross-Modal Augmentation for 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_PointAugmenting_Cross-Modal_Augmentation_for_3D_Object_Detection_CVPR_2021_paper.html) [2021 CVPR]    
+
+[FusionPainting: Multimodal Fusion with Adaptive Attention for 3D Object Detection](https://arxiv.org/abs/2106.12449) [2021 ITSC]  
+
+[Multimodal Virtual Point 3D Detection](https://arxiv.org/abs/2111.06881) [2021 NIPS]    
+
+[Cross-Modality 3D Object Detection](https://arxiv.org/abs/2008.10436) [2021 WACV]   
+
+[4D-Net for Learned Multi-Modal Alignment](https://arxiv.org/abs/2109.01066) [2021 CVPR]   
+
+[EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection](https://arxiv.org/abs/2007.08856) [2020 ECCV]    
 
 [3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection](https://arxiv.org/abs/2004.12636) [2020 ECCV]  
 
