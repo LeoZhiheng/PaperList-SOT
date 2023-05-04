@@ -1,5 +1,7 @@
 # PaperList
 
+**Talent hits a target no one else can hit, Genius hits a target no one else can see.**
+
 整理近兩年閱讀的600+文章  
 **第一階段: 三維目標檢測/跟蹤/分割，二維目標檢測/跟蹤/分割，深度/光流估計**等，施工中~~~~~~~~~~
 
