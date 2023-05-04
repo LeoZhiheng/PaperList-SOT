@@ -20,7 +20,7 @@
 2023.5.3  更新10篇 3D Object Detection (Multi-modal)    
 2023.5.4  更新10篇 3D Object Detection (Multi-modal)       
 
-**Tip:** :star2:😄:star2:表示PaperReading里面有对应的阅读笔记   
+**Tip:** :star2:😄:star2:表示[PaperReading](https://github.com/LeoZhiheng/PaperReading)里面有对应的阅读笔记   
 
 ## Catalog
 
