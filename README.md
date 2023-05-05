@@ -368,6 +368,8 @@
 
 ### Multi Frame Fusion
 
+[TransPillars: Coarse-to-Fine Aggregation for Multi-Frame 3D Object Detection](https://arxiv.org/abs/2208.03141) [2023 WACV]    
+
 [MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection](https://arxiv.org/abs/2212.00442) [2022 AAAI]
 
 [SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2210.07372) [2022 ECCV]  
