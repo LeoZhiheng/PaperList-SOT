@@ -19,6 +19,7 @@
 2023.5.2  更新15篇 3D Object Detection (Classic)...**突破200篇**:star2::fire:😄   
 2023.5.3  更新10篇 3D Object Detection (Multi-modal)    
 2023.5.4  更新10篇 3D Object Detection (Multi-modal)       
+2023.5.5  更新10篇 3D Object Detection (Multi-modal)      
 
 **Tip: :star2:😄:star2:表示[PaperReading](https://github.com/LeoZhiheng/PaperReading)有对应的阅读笔记**   
 
@@ -32,9 +33,9 @@
   - [2D Single Object Tracking (RGB Camera)](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-single-object-tracking-rgb-camera)  (**第一階段完成**)      
   - [2D Single Object Tracking (Event Camera)](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2d-single-object-tracking-event-camera)    
   - [2D Multi Object Tracking](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#2D-multi-object-tracking) 
-- [3D Object Detection](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3d-object-detection) 
+- [3D Object Detection](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#3d-object-detection)  (**第一階段完成**)    
   - [Classic](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#classic-1)
-  - [Multi Modal Fusion (LiDAR-Camera)](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-modal-fusion-lidar-camera)
+  - [Multi-Modal Fusion (LiDAR-Camera)](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-modal-fusion-lidar-camera)
   - [Multi-Frame Fusion](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#multi-frame-fusion)     
   - [Weakly Supervised](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#weakly-supervised)    
   - [LiDAR Range Image](https://github.com/LeoZhiheng/PaperList/blob/main/README.md#liDAR-range-image)     
@@ -303,7 +304,27 @@
 
 [BirdNet: a 3D Object Detection Framework from LiDAR Information](https://arxiv.org/abs/1805.01195) [2018 ITSC]    
 
-### Multi Modal Fusion (LiDAR-Camera)
+### Multi-Modal Fusion (LiDAR-Camera)
+
+[Bidirectional Propagation for Cross-modal 3D Object Detection](https://arxiv.org/abs/2301.09077) [2023 ICLR]   
+
+[TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers](https://arxiv.org/abs/2203.11496) [2022 CVPR]    
+
+[AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection](https://arxiv.org/abs/2207.10316) [2022 ECCV]   
+
+[Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection](https://arxiv.org/abs/2210.09615) [2022 ECCV]    
+
+[Dense Voxel Fusion for 3D Object Detection](https://arxiv.org/abs/2203.00871) [2022 CVPR]     
+
+[3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection](https://arxiv.org/abs/2211.13529) [2022 arVix]         
+
+[From One to Many: Dynamic Cross Attention Networks for LiDAR and Camera Fusion](https://arxiv.org/abs/2209.12254) [2022 arVix]   
+
+[Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion](https://arxiv.org/abs/2203.09780) [2022 CVPR]    
+
+[Focal Sparse Convolutional Networks for 3D Object Detection](https://arxiv.org/abs/2204.12463) [2022 CVPR]    
+
+[Voxel Field Fusion for 3D Object Detection](https://arxiv.org/abs/2205.15938) [2022 CVPR]   
 
 [DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection](https://arxiv.org/abs/2203.08195) [2022 CVPR]   
 
