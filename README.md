@@ -289,7 +289,7 @@
 
 [PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud](https://arxiv.org/abs/1812.04244) [2019 CVPR]        
 
-[STD: Sparse-to-Dense 3D Object Detector for Point Cloud Zetong](https://arxiv.org/abs/1907.10471) [2019 CVPR]     
+[STD: Sparse-to-Dense 3D Object Detector for Point Cloud Zetong](https://arxiv.org/abs/1907.10471) [2019 CVPR] :star2:😄:star2:       
 
 [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784) [2019 CVPR] :star2:😄:star2:   
 
