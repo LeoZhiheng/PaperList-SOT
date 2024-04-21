@@ -116,7 +116,7 @@
 [3D Object Tracking with Transformer](https://arxiv.org/abs/2110.14921) [2021 BMVC] 
 
 ### 2020 Year
-P2B: Point-to-box network for 3D object tracking in point clouds [2020 CVPR][[paper]](https://arxiv.org/abs/2005.13888)    
+P2B: Point-to-box network for 3D object tracking in point clouds [2020 CVPR] [[paper]](https://arxiv.org/abs/2005.13888)    
 
 F-Siamese Tracker: A Frustum-based Double Siamese Network for 3D Single Object Tracking [2020 IROS] [[paper]](https://arxiv.org/abs/2010.11510)     
 
