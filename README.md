@@ -116,11 +116,11 @@
 [3D Object Tracking with Transformer](https://arxiv.org/abs/2110.14921) [2021 BMVC] 
 
 ### 2020 Year
-[P2B: Point-to-box network for 3D object tracking in point clouds](https://arxiv.org/abs/2005.13888) [2020 CVPR]    
+P2B: Point-to-box network for 3D object tracking in point clouds [2020 CVPR][[paper]](https://arxiv.org/abs/2005.13888)    
 
-[F-Siamese Tracker: A Frustum-based Double Siamese Network for 3D Single Object Tracking](https://arxiv.org/abs/2010.11510) [2020 IROS]    
+F-Siamese Tracker: A Frustum-based Double Siamese Network for 3D Single Object Tracking [2020 IROS] [[paper]](https://arxiv.org/abs/2010.11510)     
 
 ### 2019 Year
-[Leveraging Shape Completion for 3D Siamese Tracking](https://arxiv.org/abs/1903.01784) [2019 CVPR]   
+Leveraging Shape Completion for 3D Siamese Tracking [2019 CVPR] [[paper]](https://arxiv.org/abs/1903.01784)
 
 Efficient Bird Eye View Proposals for 3D Siamese Tracking [2019 BMVC] [[paper]](https://arxiv.org/abs/1903.10168)
