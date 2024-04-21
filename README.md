@@ -123,4 +123,4 @@
 ### 2019 Year
 [Leveraging Shape Completion for 3D Siamese Tracking](https://arxiv.org/abs/1903.01784) [2019 CVPR]   
 
-Efficient Bird Eye View Proposals for 3D Siamese Tracking [paper](https://arxiv.org/abs/1903.10168) [2019 BMVC] 
+Efficient Bird Eye View Proposals for 3D Siamese Tracking [2019 BMVC] [[paper]](https://arxiv.org/abs/1903.10168)
