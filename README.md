@@ -1,6 +1,6 @@
 # PaperList - Single Object Tracking (SOT) :fire:
 
-**Talent hits a target no one else can hit, Genius hits a target no one else can see.**
+😄**Talent hits a target no one else can hit, Genius hits a target no one else can see.**
 
 ## 2D Object Tracking
 [DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks](https://arxiv.org/abs/2304.00571) [2023 CVPR]   
